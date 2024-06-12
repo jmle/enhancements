@@ -1,5 +1,5 @@
 ---
-title: Gradle support
+title: Annotation inspection
 authors:
   - "@jmle"
 reviewers:
@@ -10,8 +10,8 @@ approvers:
   - "@pranavgaikwad"
   - "@rromannissen"
   - "@shawn-hurley"
-creation-date: 2024-05-10
-last-updated: 2024-05-10
+creation-date: 2024-06-12
+last-updated: 2024-06-12
 status: implementable
 ---
 
