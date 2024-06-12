@@ -12,7 +12,7 @@ approvers:
   - "@shawn-hurley"
 creation-date: 2024-06-12
 last-updated: 2024-06-12
-status: implementable
+status: needs investigation
 ---
 
 # Annotation inspection
